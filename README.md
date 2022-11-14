@@ -38,8 +38,6 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 
 ## Using Reverie on GitHub Pages
 
-Setting up Reverie on GitHub Pages is as simple as it gets!
-
 ### 2. Customize and view your site
 
 Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
