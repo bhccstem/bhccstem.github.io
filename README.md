@@ -12,9 +12,6 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
   - [Pagination](#pagination)
   - [RSS](#rss)
   - [Sitemap](#sitemap)
-  - [Emailware](#emailware)
-  - [The name?](#the-name)
-  - [License](#license)
 
 ## Features overview
 
