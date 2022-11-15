@@ -24,6 +24,8 @@ Outreach Coordinator: Salome Shunamon
 
 [Logo](https://bhccstem.github.io/images/logo.png)
 
+[Club Constitution](https://bhccstem.github.io/files/STEM_Club_Constitution.pdf)
+
 ## Features
 
 - Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
