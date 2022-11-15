@@ -1,24 +1,17 @@
 ## Features overview
 
-- Clean and minimal design
-- Single column post layout
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized theme
 - Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
 - All the SEO goodies come built-in
 - Markdown blogging
 - Supports [Pullquotes](https://reverie-jekyll.netlify.app/pullquotes/)
 - Syntax highlighting using Pygments
     - [Dracula syntax theme](https://draculatheme.com/) included
 - Disqus commenting
-- Social media icons
 - Google Analytics integration
 - Supports [Google Analytics 4](https://support.google.com/analytics/answer/10089681?hl=en)
 - Fuzzy search across blog posts
 - Blog with pagination
 - Categorize posts out-of-the box
-- RSS Feed
 - Built-in sitemap
 
 ## Using Reverie on GitHub Pages
