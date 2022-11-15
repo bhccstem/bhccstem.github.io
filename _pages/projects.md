@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-[Project Idea Submission Form]()
+[Project Idea Submission Form](https://forms.gle/eChS3GCib4n7VwJk8)
