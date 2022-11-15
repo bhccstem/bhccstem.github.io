@@ -1,5 +1,3 @@
-This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https://pages.github.com) (or [Cloudflare Pages](https://pages.cloudflare.com/) if you want to have your repository private) without even setting up a local environment.
-
 ## Features overview
 
 - Clean and minimal design
