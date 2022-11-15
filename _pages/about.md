@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Meeting time: Tuesdays at 1PM
+<p align="center"> Meeting time: Tuesdays at 1PM </p>
 
 ## Leadership Team
 
