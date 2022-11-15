@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+Meeting time: Tuesdays at 1PM
+
 ## Leadership Team
 
 President: Jessica Schneider
