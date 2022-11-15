@@ -18,9 +18,11 @@ Outreach Coordinator: Salome Shunamon
 
 ## Meeting Summaries
 
+[Nov 8 2022](https://bhccstem.github.io/files/STEM_Meeting_Notes_11_8_22.pdf)
+
 [Nov 1 2022](https://bhccstem.github.io/files/STEM_Meeting_Notes_11_1_22.pdf)
 
-[Nov 8 2022](https://bhccstem.github.io/files/STEM_Meeting_Notes_11_8_22.pdf)
+[Logo](https://bhccstem.github.io/images/logo.png)
 
 ## Features
 
