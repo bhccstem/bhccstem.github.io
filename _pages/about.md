@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<p align="center"> Meeting time: Tuesdays at 1PM </p>
+<p align="center"> Meeting time: Tuesdays at 1PM on Webex </p>
 
 ## Leadership Team
 
