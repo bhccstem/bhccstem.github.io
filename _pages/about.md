@@ -8,15 +8,25 @@ permalink: /about/
 
 ## Leadership Team
 
-President: Jessica Schneider (jessica.schneider@bhcc.edu)
+President: Jessica Schneider
 
-Vice president: Destiny Kanu (destiny.kanu@bhcc.edu)
+- jessica.schneider@bhcc.edu
 
-Secretary: Ronald Cruz (ronald.cruzventura@bhcc.edu)
+Vice president: Destiny Kanu
 
-Treasurer: Mohammed Eltayeb (m.eltayeb@bhcc.edu)
+- destiny.kanu@bhcc.edu
 
-Outreach Coordinator: Salome Shunamon (salome.shunamon01@bhcc.edu)
+Secretary: Ronald Cruz
+
+- ronald.cruzventura@bhcc.edu
+
+Treasurer: Mohammed Eltayeb
+
+- m.eltayeb@bhcc.edu
+
+Outreach Coordinator: Salome Shunamon
+
+- salome.shunamon01@bhcc.edu
 
 ## Meeting Summaries
 
