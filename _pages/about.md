@@ -10,23 +10,23 @@ permalink: /about/
 
 President: Jessica Schneider
 
-- jessica.schneider@bhcc.edu
+<!-- - jessica.schneider@bhcc.edu -->
 
 Vice president: Destiny Kanu
 
-- destiny.kanu@bhcc.edu
+<!-- - destiny.kanu@bhcc.edu -->
 
 Secretary: Ronald Cruz
 
-- ronald.cruzventura@bhcc.edu
+<!-- - ronald.cruzventura@bhcc.edu -->
 
 Treasurer: Mohammed Eltayeb
 
-- m.eltayeb@bhcc.edu
+<!-- - m.eltayeb@bhcc.edu -->
 
 Outreach Coordinator: Salome Shunamon
 
-- salome.shunamon01@bhcc.edu
+<!-- - salome.shunamon01@bhcc.edu -->
 
 ## Meeting Summaries
 
