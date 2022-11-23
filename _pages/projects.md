@@ -12,7 +12,7 @@ permalink: /projects/
 
 **Robot Olympics**
 
-Project Lead: TBA
+Project Lead: Estrella Cayuelas Solano
 
 **Electric Bike**
 
