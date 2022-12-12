@@ -24,11 +24,15 @@ Treasurer: Mohammed Eltayeb
 
 <!-- - m.eltayeb@bhcc.edu -->
 
-Outreach Coordinator: Salome Shunamon
+Outreach Coordinator: Neftalem Tesfaye
 
-<!-- - salome.shunamon01@bhcc.edu -->
+<!-- - Neftalem.tesfaye@bhcc.edu -->
 
 ## Meeting Summaries
+
+[Dec-6-2022](https://bhccstem.github.io/files/STEM_Meeting_Notes_12_6_22.pdf)
+
+[Nov-29-2022](https://bhccstem.github.io/files/STEM_Meeting_Notes_11_29_22.pdf)
 
 [Nov-15-2022](https://bhccstem.github.io/files/STEM_Meeting_Notes_11_15_22.pdf)
 
