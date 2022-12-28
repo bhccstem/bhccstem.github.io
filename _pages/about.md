@@ -30,6 +30,8 @@ Outreach Coordinator: Neftalem Tesfaye
 
 ## Meeting Summaries
 
+[Dec-13-2022](https://bhccstem.github.io/files/STEM_Meeting_Notes_12_13_22.pdf)
+
 [Dec-6-2022](https://bhccstem.github.io/files/STEM_Meeting_Notes_12_6_22.pdf)
 
 [Nov-29-2022](https://bhccstem.github.io/files/STEM_Meeting_Notes_11_29_22.pdf)
